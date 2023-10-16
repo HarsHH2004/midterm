@@ -1,0 +1,85 @@
+/*
+Name: Hatrshdeep Singh
+Student No: 8910992
+Mail-id: Hsingh0992@conestogac.on.ca
+*/
+
+body {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    font: normal normal normal 12px/1.5 Verdana, Arial, Helvetica, sans-serif;
+}
+
+.structural {
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+    color: purple;
+    font-size: 30px;
+}
+
+h2 {
+    color: purple;
+    font-size: 20px;
+}
+
+main {
+    height: 70vh;
+}
+
+figure img {
+    border: 5px solid purple;
+    width: 90%;
+    height: 80%;
+}
+
+figure {
+    background-color: plum;
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+}
+
+#har1 {
+    float: left;
+}
+
+#har2 {
+    float: right;
+}
+
+section {
+    clear: both;
+}
+
+figcaption {
+    font-weight: bold;
+    font-size: 20px;
+    color: purple;
+    padding: 5px;
+}
+
+a {
+    color: plum;
+}
+
+a:hover{
+    color: purple;
+}
+
+ul {
+    list-style: circle;
+    line-height: 3;
+}
+
+header {
+    background-color: plum;
+}
+
+footer {
+    background-color: plum;
+}
